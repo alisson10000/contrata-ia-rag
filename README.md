@@ -3,7 +3,7 @@
 Projeto desenvolvido pelo **Time 03** para construção de uma solução de **Retrieval-Augmented Generation (RAG)** aplicada ao cenário de **Contratações Públicas do Estado do Rio de Janeiro**.
 
 A aplicação utiliza **FastAPI** como framework backend, **Uvicorn** como servidor ASGI, **SQLite** como banco de dados local e **SQLAlchemy** para persistência e acesso aos dados.
-
+link de apresentação do projeto: https://youtu.be/OqVRBm9a9TE
 O projeto utiliza diferentes fontes de dados e documentos, organizados em quatro bases:
 
 * **Base Normativa** — leis, decretos e editais;
